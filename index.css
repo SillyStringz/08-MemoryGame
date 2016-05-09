@@ -1,0 +1,15 @@
+.card {
+	border: 2px solid black;
+	background: light gray;
+	text-align: center;
+	padding: 24px;
+
+}
+	
+.card-found {
+	background: green;
+	font-weight: bold;
+
+}
+
+
